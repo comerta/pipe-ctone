@@ -1,0 +1,53 @@
+{
+  "configVersion": 1,
+  "index": "https://comerta.github.io/pipe-ctone/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://comerta.github.io/pipe-ctone/favicon.ico",
+        "https://comerta.github.io/pipe-ctone/index.html",
+        "https://comerta.github.io/pipe-ctone/inline.318b50c57b4eba3d437b.bundle.js",
+        "https://comerta.github.io/pipe-ctone/main.815ca5defe45d9522877.bundle.js",
+        "https://comerta.github.io/pipe-ctone/polyfills.b6b2cd0d4c472ac3ac12.bundle.js",
+        "https://comerta.github.io/pipe-ctone/styles.1737b698fa048e5a82cc.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://comerta.github.io/pipe-ctone/assets/favicon-96x96.png",
+        "https://comerta.github.io/pipe-ctone/assets/icon-1024x1024.png",
+        "https://comerta.github.io/pipe-ctone/assets/icon-120x120.png",
+        "https://comerta.github.io/pipe-ctone/assets/icon-152x152.png",
+        "https://comerta.github.io/pipe-ctone/assets/icon-180x180.png",
+        "https://comerta.github.io/pipe-ctone/assets/icon-310x310.png",
+        "https://comerta.github.io/pipe-ctone/assets/icon-512x512.png",
+        "https://comerta.github.io/pipe-ctone/assets/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://comerta.github.io/pipe-ctone/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "https://comerta.github.io/pipe-ctone/assets/favicon-96x96.png": "f53e1e2a05be679cc931994cf21b858e9bf4928b",
+    "https://comerta.github.io/pipe-ctone/main.815ca5defe45d9522877.bundle.js": "498c13f687ad8dc0b24bb2a1831153b2a59a4c41",
+    "https://comerta.github.io/pipe-ctone/assets/icon-1024x1024.png": "c9cf61f0579a0131c8ca388f96b0a060f5fd653d",
+    "https://comerta.github.io/pipe-ctone/polyfills.b6b2cd0d4c472ac3ac12.bundle.js": "b092f5c27ff4222179ae3e9e3164c8cc6caa09cf",
+    "https://comerta.github.io/pipe-ctone/assets/icon-120x120.png": "9d2948a1147b82933163548c050d869f2fac2b15",
+    "https://comerta.github.io/pipe-ctone/styles.1737b698fa048e5a82cc.bundle.css": "2d54a334bf71713644c3c2f6aeed7da1ab2a647c",
+    "https://comerta.github.io/pipe-ctone/assets/icon-152x152.png": "5e1cadb12b19e1b55dd4ed8959fc00fd19dfe318",
+    "https://comerta.github.io/pipe-ctone/favicon.ico": "f53919e476fc8bbd0a510860e3f71da2b73cf333",
+    "https://comerta.github.io/pipe-ctone/assets/icon-180x180.png": "351789be3429b6eb8ecab941234212e80dfc4c2e",
+    "https://comerta.github.io/pipe-ctone/index.html": "51151a8766ce0d93c1158f05f9b1cb9d1a9576fb",
+    "https://comerta.github.io/pipe-ctone/assets/icon-310x310.png": "39e9e8159780ec5f2dbc75d8c7f7d18b8407e6ec",
+    "https://comerta.github.io/pipe-ctone/assets/icon-512x512.png": "df73e5e8cff3e28cc8d8c3d2a83cebf46521732a",
+    "https://comerta.github.io/pipe-ctone/assets/icon-96x96.png": "f53e1e2a05be679cc931994cf21b858e9bf4928b"
+  }
+}

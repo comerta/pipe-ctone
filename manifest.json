@@ -22,6 +22,14 @@
       "src": "assets/icon-310x310.png",
       "sizes": "310x310",
       "type": "image/png"
+    }, {
+      "src": "assets/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }, {
+      "src": "assets/icon-1024x1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
     }],
   "start_url": "index.html",
   "display": "standalone",

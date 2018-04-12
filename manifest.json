@@ -1,0 +1,30 @@
+{
+  "name": "Cate One - Pipe Project",
+  "short_name": "CATOne",
+  "description": "A funny way to catland",  
+  "icons": [{
+    "src": "assets/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }, {
+    "src": "assets/icon-120x120.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    }, {
+      "src": "assets/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    }, {
+      "src": "assets/icon-180x180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }, {
+      "src": "assets/icon-310x310.png",
+      "sizes": "310x310",
+      "type": "image/png"
+    }],
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#673ab7"
+}
